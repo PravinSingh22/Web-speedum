@@ -40,7 +40,7 @@ let arr =[2,4,5,3,"RAHUL"];
 // delete arr[0];
 // console.log(arr);
 // concatination in array
-let num1=[1,2,69,9,5,56,4];
+// let num1=[1,2,69,9,5,56,4];
 // let new_arr=arr.concat(num1);
 // console.log(new_arr);
 
@@ -61,7 +61,17 @@ let num1=[1,2,69,9,5,56,4];
 
 // array splice modifies the original array
 
-num1.splice(2,3,1021,2312,200)
+// num1.splice(2,3,1021,2312,200)
+
+//looping in javascript array
+// for(let i=0; i<arr.length; i++){
+//   console.log(arr[i]);
+// }
+// looping by foeach loop
+// arr.forEach((element)=>{
+//   console.log(element*element)
+// })
+
 
 
 
